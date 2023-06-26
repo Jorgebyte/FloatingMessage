@@ -1,0 +1,15 @@
+name: FloatingMessage
+api: 5.0.0
+version: 1.0.0
+author: Jorgebyte
+main: FloatingMessage\Jorgebyte\Main
+
+commands:
+  floatingmessage:
+    description: "Use On or off to activate floating message"
+    permission: floatingmessage.cmd
+
+permissions:
+  floatingmessage.cmd:
+    default: true
+
