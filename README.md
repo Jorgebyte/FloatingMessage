@@ -1,2 +1,3 @@
 # FloatingMessage
-FloatingMessage Pocketmine :)
+
+This Plugin brings a unique and captivating feature to your server, enhancing its dynamics and fostering a friendlier environment. With this plugin, you can unleash your voice, and watch as your messages magically appear in the air, beautifully displayed under your nickname. This exclusive functionality adds a touch of individuality to your server and can be utilized across various game modes. Furthermore, the plugin allows you to customize the text limitations and deletion timers, granting you full control over the experience. Dive into the config.yml file and unleash the potential of this extraordinary plugin!
