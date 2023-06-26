@@ -5,4 +5,5 @@ branches:
 projects:
   FloatingMessage:
     path: ""
+    icon: icon.png
 ...
